@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChatWidgetSDK",
-            url: "https://github.com/AbdullahElesnawy/clouding-ios-sdk/releases/download/1.0.5/ChatWidgetSDK-1.0.5.xcframework.zip",
-            checksum: "7337b45b67bfa97f33416502cae36d549df906658af7a9dd3b35a959c7bf8b05"
+            url: "https://github.com/AbdullahElesnawy/clouding-ios-sdk/releases/download/v1.0.6/ChatWidgetSDK-v1.0.6.xcframework.zip",
+            checksum: "3ffb3bd7d56d5aef04ec28ec9e1402dd51b9bcee411976efaaefa91e9fb84a1b"
         )
     ]
 )
